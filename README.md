@@ -7,11 +7,11 @@ Ever wondered what it was like to be a subway worker? Well try out our current s
 
 Progress Screenshots as of May 10, 2018:
 
-![alt text](https://imgur.com/YV24KWn)
+https://imgur.com/YV24KWn
 
-![alt text](https://imgur.com/c8tipBe)
+https://imgur.com/c8tipBe
 
-![alt text](https://imgur.com/gnTV9wi)
+https://imgur.com/gnTV9wi
 
 
 Project Contributors: 
