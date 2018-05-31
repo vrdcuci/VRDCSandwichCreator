@@ -14,9 +14,13 @@ https://imgur.com/c8tipBe
 https://imgur.com/gnTV9wi
 
 
-Project Contributors: 
+Project Contributors:
+
 Cameron Maberto
+
 Edward Lok
+
 Marcus Wong
+
 Jonathan Huang
 ...
