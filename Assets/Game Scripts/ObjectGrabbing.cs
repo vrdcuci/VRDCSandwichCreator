@@ -63,6 +63,8 @@ public class ObjectGrabbing : MonoBehaviour {
     public GameObject lettucePrefab;
     public GameObject onionPrefab;
     public GameObject tomatoPrefab;
+    public GameObject topPrefab;
+    public GameObject bottomPrefab;
 
     private void SpawnGrab()
     {
@@ -108,6 +110,14 @@ public class ObjectGrabbing : MonoBehaviour {
                 break;
             case SpawnType.TOMATO:
                 spawnedObject = Instantiate(tomatoPrefab, transform.position, tomatoPrefab.transform.rotation);
+                collidingObject = spawnedObject;
+                break;
+            case SpawnType.TOPBREAD:
+                spawnedObject = Instantiate(topPrefab, transform.position, topPrefab.transform.rotation);
+                collidingObject = spawnedObject;
+                break;
+            case SpawnType.BOTTOMBREAD:
+                spawnedObject = Instantiate(bottomPrefab, transform.position, bottomPrefab.transform.rotation);
                 collidingObject = spawnedObject;
                 break;
         }
